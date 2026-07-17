@@ -29,13 +29,7 @@ I'm a **B.Tech CSE (Data Science)** student passionate about coding and problem-
 
 ---
 
-## 🚀 Featured Projects
 
-- 🎮 Rock Paper Scissors (Python)
-- 🌐 Contact Form Website (HTML, CSS, JavaScript)
-- 📂 File Organizer (Python)
-
----
 
 ## 📊 GitHub Stats
 
